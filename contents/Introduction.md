@@ -1,5 +1,5 @@
 1.1 <a href="#Definition">Definition</a>, <a href="#Functions_of_GIS">Functions of GIS </a> 
-1.2. [[#Components_of_GIS] and [[#Applications_of_GIS]]
+1.2. <a href="#Definition">[[#Components_of_GIS]] and [[#Applications_of_GIS]]
 
 ## Definition
 
