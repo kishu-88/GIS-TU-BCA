@@ -1,4 +1,4 @@
-1.1 [[#Definition]], [[#Functions of GIS]] 
+1.1 <a href="#Definition">Definition</a>, [[#Functions of GIS]] 
 1.2. [[#Components of GIS]] and [[#Applications of GIS]]
 
 ## Definition
