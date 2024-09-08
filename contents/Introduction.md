@@ -1,5 +1,5 @@
 1.1 <a href="#Definition">Definition</a>, <a href="#Functions_of_GIS">Functions of GIS </a> 
-1.2. [[#Components of GIS]] and [[#Applications of GIS]]
+1.2. [[#Components_of_GIS] and [[#Applications_of_GIS]]
 
 ## Definition
 
@@ -11,7 +11,7 @@ Geographical information system (GIS) is basically defined as a systematic integ
 
 Map making and geographic analysis are not new, but a GIS performs these tasks better and faster than the old manual methods. And, before GIS technology, only a few people had the skills necessary to use geographic information to help with decision making and problem solving.
 
-## Functions of GIS
+## Functions_of_GIS
 
 - **Data Collection and Input**:
     - GIS allows users to input geographic data from various sources like maps, satellite images, GPS, and field surveys.
@@ -27,7 +27,7 @@ Map making and geographic analysis are not new, but a GIS performs these tasks b
       
 - **Data Visualization**: 
     - GIS enables the creation of visual representations of data through maps, charts, and 3D models, making the data more understandable and actionable.
-## Applications of GIS:
+## Applications_of_GIS:
 
 1. **Urban Planning**:
     
@@ -48,7 +48,7 @@ Map making and geographic analysis are not new, but a GIS performs these tasks b
     
     - GIS can track disease outbreaks, analyze health service distribution, and assist in public health management by mapping health-related data.
     
-## Components of GIS
+## Components_of_GIS
 
 A Geographic Information System (GIS) consists of several key components that work together to capture, manage, analyze, and visualize spatial data. These components are essential for the functionality and performance of GIS.
 
@@ -98,7 +98,7 @@ A Geographic Information System (GIS) consists of several key components that wo
     - **Standards and guidelines** that ensure data quality and consistency in outputs.
 - Having standardized procedures ensures that GIS projects are repeatable and results are accurate and reliable.
 
-## Trends of GIS
+## Trends_of_GIS
 
 Geographic Information System (GIS) technology is evolving rapidly, driven by advancements in hardware, software, and data availability. Below are some of the key trends in GIS that are shaping the future of this field:
 
@@ -160,7 +160,7 @@ Geographic Information System (GIS) technology is evolving rapidly, driven by ad
 - Blockchain technology is starting to be integrated with GIS, especially in applications requiring secure, immutable records of transactions or spatial data.
 - One notable area is **land registry systems**, where blockchain ensures secure and transparent property records, reducing the risk of fraud.
 - Blockchain also supports the verification of geospatial data sources and ensures data integrity across multiple stakeholders.
-## Nature and Sources of data
+## Nature_and_Sources_of_data
 #### 1. Nature of GIS
 
 GIS data can be broadly categorized into two types: **spatial data** and **attribute (non-spatial) data**.
